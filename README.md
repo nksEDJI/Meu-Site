@@ -1,2 +1,2 @@
 # Meu-Site
-Site para a seletiva da empresa Sensorville 
+Site para a mostrar minha trajetória pessoal e profissional.
